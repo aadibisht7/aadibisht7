@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:adityabisht.bg@gmail.com">adityabisht.bg@gmail.com</a>
+  You can contact me via Email: <a href="mailto:adityabisht.bg@gmail.com">adityabisht.bg@gmail.com</a>
 </p>
